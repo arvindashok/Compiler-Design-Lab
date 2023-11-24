@@ -1,0 +1,9 @@
+
+ int is an identifier
+ hello is an identifier
+
+ print is an identifier
+
+ 54 is a digit
+
+} is an invalid token
