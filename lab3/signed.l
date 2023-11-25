@@ -16,5 +16,5 @@ int yywrap(){}
 int main(){
 	printf("Enter input:");
 	yylex();
-	return 0;
+	return 0;//bye
 }
